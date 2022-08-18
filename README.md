@@ -38,3 +38,13 @@ The **Ateneo de Davao University - Computer Studies Cluster** is an organization
 <br />
 **3. Bachelor of Science in Information Technology (BSIT)** - is a 4-year program that deals with using hardware and software technologies to improve business systems by providing computer solutions.
 <br />
+
+<hr />
+
+#### Institution Academic Reputation: 
+The Ateneo de Davao University is the leading institution in Davao City and is committed to academic quality and academic honesty. Therefore, the academic monitoring initiatives have been implemented indubitably and the **Ateneo de Davao University - Computer Studies Cluster**, as a cluster organization improved their way to the top. 
+The **Ateneo de Davao University - Computer Studies Cluster** has an Exam Management System that keeps track with the academic performance of its students. The exam provider monitors students while they take academic tests, quizzes, performance evaluations, and examinations. The exam provider's responsibilities include managing examination information, creating exam schedules, monitoring students' exam results, and updating examination and examinee records.
+
+#### About the Subsystem: 
+The include and extend functions are used to supplement the aforementioned diagram. The terms include and extend in the use case diagram are known as indicators. The broken arrows indicate that the diagrams connected to them are parts of a process. They could be one of the include or extend indicators. The "include" indication indicates that the following use case was required to complete the task, while the "extend" indication indicates otherwise. The purpose of this include and extend diagram is to inform the readers and users that some tasks and processes can be completed without executing all of the subtasks. They were only used when called upon or required. 
+  
