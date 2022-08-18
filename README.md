@@ -48,3 +48,17 @@ The **Ateneo de Davao University - Computer Studies Cluster** has an Exam Manage
 #### About the Subsystem: 
 The include and extend functions are used to supplement the aforementioned diagram. The terms include and extend in the use case diagram are known as indicators. The broken arrows indicate that the diagrams connected to them are parts of a process. They could be one of the include or extend indicators. The "include" indication indicates that the following use case was required to complete the task, while the "extend" indication indicates otherwise. The purpose of this include and extend diagram is to inform the readers and users that some tasks and processes can be completed without executing all of the subtasks. They were only used when called upon or required. 
   
+****
+
+<img width="80px" align = "left" src= "https://github.com/jamespaulxyz/itelective3-web/blob/main/CS%20Cluster%20logo.png" /> 
+
+<div align="left"> 
+  
+<em> 
+<br />
+<strong>Ateneo de Davao University - Computer Studies Cluster</strong>
+<br /> Sixth Floor, Finster Bldg, Ateneo de Davao University, Davao City, Philippines
+
+</em> 
+  
+</div>
